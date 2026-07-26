@@ -8,7 +8,7 @@ Bienvenue ! Ce projet permet à la communauté francophone de Home Assistant de 
 ## 🚀 Comment ça marche ?
 Tout se passe sur Google Colab. Vous enregistrez votre voix, et les serveurs de Google s'occupent de l'entraînement !
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](METTEZ_LE_LIEN_DE_VOTRE_NOTEBOOK_GITHUB_ICI)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GhostWolf09/Home_Assistant_MicroWakeWord_FR/blob/main/MicroWakeWord_mot_d'%C3%A9veil_perso.ipynb)
 
 *(Cliquez sur le badge ci-dessus pour démarrer)*
 
