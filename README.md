@@ -23,5 +23,5 @@ Tout se passe sur Google Colab. Vous enregistrez votre voix, et les serveurs de 
 3. Exécutez les cellules une par une (le bouton "Play" à gauche de chaque bloc).
 4. Téléchargez vos fichiers `.tflite` et `.json` à la fin.
 
-## ❤️ Remerciements
-Basé sur l'excellent travail du dépôt original [micro-wake-word](https://github.com/kahrendt/microWakeWord).
+## Remerciements
+Basé sur l'excellent travail du dépôt original [micro-wake-word](https://github.com/OHF-Voice/micro-wake-word)
