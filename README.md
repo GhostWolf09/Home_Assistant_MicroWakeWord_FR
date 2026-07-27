@@ -13,7 +13,7 @@ Tout se passe sur Google Colab. Vous enregistrez votre voix, et les serveurs de 
 *(Cliquez sur le badge ci-dessus pour démarrer)*
 
 ## 🛠️ Prérequis
-- Un compte Google gratuit (pour utiliser Colab. Même si, acheter 100 crédit est plutôt conseillé)
+- Un compte Google gratuit (pour utiliser Colab. Même si, acheter 100 crédits est plutôt conseillé)
 - Un micro ou l'enregistreur sur votre smartphone pour enregistrer vos échantillons de voix (.wav)
 - Un appareil ESP32 sous ESPHome (version 2024.7.0 minimum)
 
